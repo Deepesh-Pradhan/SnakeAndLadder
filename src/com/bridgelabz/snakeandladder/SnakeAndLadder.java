@@ -32,7 +32,7 @@ public class SnakeAndLadder {
                 System.out.println("Player 1 cant move forward");
             }
             System.out.println("PLayer 1 is at position => " + p1);
-            System.out.println("    ");
+            System.out.println("   ");
         }
         System.out.println("Player 1 has completed the Game");
     }
